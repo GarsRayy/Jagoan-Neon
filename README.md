@@ -4,7 +4,7 @@ Proyek ini merupakan *deliverable* akhir untuk Mata Kuliah Desain Interaksi (IF2
 **StudyQuest** adalah prototipe aplikasi *mobile* yang dirancang untuk meningkatkan motivasi dan konsistensi belajar mahasiswa Teknik Informatika  melalui pendekatan gamifikasi, *social leaderboard*, dan *micro-learning*
 
 - **Mata Kuliah:** Desain Interaksi (IF25-31022) 
-- **Dosen Pengampu:** Amirul Iqbal[cite: 353]
+- **Dosen Pengampu:** Amirul Iqbal
 - **Asisten Perkuliahan:** Elsa Elisa Yohana Sianturi 
 
 ---
@@ -29,10 +29,10 @@ Proyek ini merupakan *deliverable* akhir untuk Mata Kuliah Desain Interaksi (IF2
 
 ## 💎 Metodologi: Double Diamond
 
-Proyek ini disusun mengikuti 4 fase metodologi Double Diamond[cite: 377, 815]. Semua artefak desain tersimpan dalam folder yang sesuai:
+Proyek ini disusun mengikuti 4 fase metodologi Double Diamond. Semua artefak desain tersimpan dalam folder yang sesuai:
 
 * **`1_Discover`**: Berisi data mentah dari riset pengguna (transkrip wawancara, observasi).
-* **`2_Define`**: Berisi hasil sintesis data (User Persona, User Journey Map [cite: 512, 1065], HMW ).
+* **`2_Define`**: Berisi hasil sintesis data (User Persona, User Journey Map, HMW ).
 * **`3_Develop`**: Berisi proses desain (User Flow, Wireframe, Aset Desain, dan Konten).
 * **`4_Deliver`**: Berisi produk akhir (Laporan, Video, dan Prototipe High-Fidelity).
 
